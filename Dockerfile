@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-FROM jackjuel
+FROM openjdk:8u312-jre-buster
 
 LABEL version="4.2.4"
 
